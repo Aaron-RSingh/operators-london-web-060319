@@ -1,5 +1,5 @@
 def unsafe?(speed)
-   79 > 60
+    
 end
 
 
